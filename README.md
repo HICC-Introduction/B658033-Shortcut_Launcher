@@ -34,6 +34,8 @@
 * 개발 프로그램 : Visual Studio Code
 * 개발 언어 : Python v3.8.5
 
+* 개발 스택 선정이유: Tkinter는 GUI에 대한 표준 Python 인터페이스이기 때문이다.
+
 ### 코드룰
 
 ```
@@ -60,5 +62,3 @@
         test_variable = Test_class(43)
         test_variable.test_method()
 ```
-
-* 개발 스택 선정이유: Tkinter는 GUI에 대한 표준 Python 인터페이스이기 때문이다.
