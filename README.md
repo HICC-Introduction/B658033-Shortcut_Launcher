@@ -31,10 +31,9 @@
 ### 소프트웨어
 * OS : macOS Big Sur v11.2.3(20D91)
 * 개발 스택 : Tkinter 
+    * 개발 스택 선정이유 : Tkinter는 GUI에 대한 표준 Python 인터페이스이기 때문이다.
 * 개발 프로그램 : Visual Studio Code
 * 개발 언어 : Python v3.8.5
-
-* 개발 스택 선정이유: Tkinter는 GUI에 대한 표준 Python 인터페이스이기 때문이다.
 
 ### 코드룰
 
