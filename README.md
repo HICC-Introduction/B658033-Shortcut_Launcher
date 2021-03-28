@@ -25,7 +25,11 @@
 ### 하드웨어
 * CPU : 2 GHz 쿼드 코어 Intel Core i5
 * RAM : 32GB 3733 MHz LPDDR4X
-* HDD/SSD : 1TB
+* SSD : 
+    * 용량 :	1TB
+    * 여유공간 : 705.68GB
+    * 미디어 이름 : AppleAPFSMedia
+    * 프로토콜 : PCI-Express
 * GPU : Intel Iris Plus Graphics 1536 MB
 
 ### 소프트웨어
